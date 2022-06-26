@@ -8,7 +8,7 @@
       "contact": "https://google.com/",
       
       "addon": false,
-      "maps": true,
+      "maps": false,
       "texture": false,
       "skin": true,
       "more": false,
@@ -45,20 +45,12 @@
   ],
   "Map": [
     {
-        "name": "Wizard101 Map (Revamped!)",
-        "role": "After losing a lot of my progress, I had to go back and re do but also add certain sections that made this this playable.  However, after your long wait, here is an update you have waited for.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/Wizard101-in-Minecraft_1590967789.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/4/1.png"
-    },
-    {
-        "name": "Horse Parkour [Parkour]",
-        "role": "This is a new take on parkour. Instead of running the parkour course yourself you will be riding a horse! It's slightly more difficult to control a horse than controlling the player (at least that's my opinion) and that makes this map quite hard actually. You can either play it in multiplayer or just play it by yourself.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/3.jpg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/Horse Parkour.mcworld",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/2.jpg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Unicorn/16/1.jpg"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Texture": [
